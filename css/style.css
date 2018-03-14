@@ -35,7 +35,6 @@ body {
 	width: 100vw;
 	margin-top: 40px;
 }
-
 #mainbox h1 {
 	text-align: center;
 
@@ -51,4 +50,48 @@ body {
 	display: block;
 	text-align:justify;
 }
+
+#sec {
+	width: 100vw;
+}
+
+.box1 {
+	width: 50%;
+	float: left;
+
+}
+
+.box1 img {
+	max-width: 100%;
+	padding:0px;
+	
+
+}
+
+.box1 p {
+	margin:23px;
+
+	text-align: justify;
+}
+
+.box2 {
+	width: 50%;
+	float: left;
+
+}
+
+.box2 img {
+	max-width: 100%;
+	padding: 0px;
+}
+.box2 p {
+	text-align: justify;
+	margin:23px;
+}
+
+
+
+
+
+
 
